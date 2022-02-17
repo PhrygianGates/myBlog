@@ -1,6 +1,6 @@
 ---
 title: Hello World
-tags: life
+categories: 生活
 ---
 
 ### 起点
